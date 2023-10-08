@@ -1,4 +1,6 @@
-# Android Studies
+# Checkpoint 2 - Segundo Semestre 2023 - HAMD
 
-Android applications developed with Android Studio and Kotlin
+### Professor: Vinny Albuquerque
 
+--- 
+- Mário Ito Bocchini - RM96950
